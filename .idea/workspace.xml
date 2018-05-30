@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c605a47d-7b30-45e0-a57a-65ab5d335f81" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/phonegaptest/.gitignore" afterPath="$PROJECT_DIR$/phonegaptest/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/phonegaptest/config.xml" afterPath="$PROJECT_DIR$/phonegaptest/config.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -42,6 +43,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/phonegaptest/node_modules" />
     <handled-path value="$PROJECT_DIR$/phonegaptest/platforms/browser/cordova/node_modules" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
@@ -117,12 +119,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527665161288</updated>
-      <workItem from="1527665162634" duration="26000" />
+      <workItem from="1527665162634" duration="622000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26000" />
+    <option name="totallyTimeSpent" value="622000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="116" y="-8" width="1812" height="1096" extended-state="6" />
