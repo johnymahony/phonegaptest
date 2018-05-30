@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c605a47d-7b30-45e0-a57a-65ab5d335f81" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/phonegaptest/www/index.html" afterPath="$PROJECT_DIR$/phonegaptest/www/index.html" />
       <change beforePath="$PROJECT_DIR$/phonegaptest/www/js/index.js" afterPath="$PROJECT_DIR$/phonegaptest/www/js/index.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,11 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/phonegaptest/www/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="42" column="25" lean-forward="false" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+            <state relative-caret-position="494">
+              <caret line="45" column="20" lean-forward="false" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -35,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/phonegaptest/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="48" column="38" lean-forward="false" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="48" />
+            <state relative-caret-position="732">
+              <caret line="54" column="54" lean-forward="false" selection-start-line="54" selection-start-column="54" selection-end-line="54" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -54,8 +55,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/phonegaptest/config.xml" />
-        <option value="$PROJECT_DIR$/phonegaptest/www/index.html" />
         <option value="$PROJECT_DIR$/phonegaptest/www/js/index.js" />
+        <option value="$PROJECT_DIR$/phonegaptest/www/index.html" />
       </list>
     </option>
   </component>
@@ -158,12 +159,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527665161288</updated>
-      <workItem from="1527665162634" duration="2906000" />
+      <workItem from="1527665162634" duration="3072000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2906000" />
+    <option name="totallyTimeSpent" value="3072000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="116" y="-8" width="1812" height="1096" extended-state="6" />
@@ -200,14 +201,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/phonegaptest/www/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="48" column="38" lean-forward="false" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/phonegaptest/config.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1292">
@@ -218,11 +211,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/phonegaptest/www/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="42" column="25" lean-forward="false" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+        <state relative-caret-position="494">
+          <caret line="45" column="20" lean-forward="false" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonegaptest/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="732">
+          <caret line="54" column="54" lean-forward="false" selection-start-line="54" selection-start-column="54" selection-end-line="54" selection-end-column="54" />
+          <folding />
         </state>
       </provider>
     </entry>
